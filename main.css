@@ -7,15 +7,14 @@ body {
 }
 div .left-profile {
   min-height: 100vh;
-  background-color: black;
-  background-image: url(./docs/profile-bg.jpg);
+  background-image: url(./docs/bg-profile.jpg);
   background-size: 50em;
   background-position: right;
 }
 
 div .right-projects {
   min-height: 100vh;
-  background-color: silver;
+  background-image: url(./docs/bg-projects.jpg);
   background-size: auto;
   padding: 0;
 }
@@ -30,7 +29,7 @@ div .right-projects {
 }
 
 .contact li {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgb(0, 0, 0.5);
   color: lightgrey;
   border: 0px;
 }
