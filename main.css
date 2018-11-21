@@ -7,7 +7,7 @@ body {
 }
 div .left-profile {
   min-height: 100vh;
-  background-color: grey;
+  background-color: black;
   background-image: url(./docs/profile-bg.jpg);
   background-size: 50em;
   background-position: right;
@@ -15,7 +15,31 @@ div .left-profile {
 
 div .right-projects {
   min-height: 100vh;
-  background-color: rgb(255, 197, 149);
+  background-color: silver;
   background-size: auto;
   padding: 0;
+}
+
+.contact {
+  border-radius: 20px;
+  font-size: .8em;
+}
+
+.contact a:link {
+  color: lightgrey;
+}
+
+.contact li {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: lightgrey;
+  border: 0px;
+}
+
+.contact a:visited{
+  color: grey;
+}
+
+.icons {
+  font-size: 1.5em;
+  margin-right: .6em;
 }
