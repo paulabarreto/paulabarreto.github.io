@@ -1,0 +1,21 @@
+body {
+  min-height: 100vh;
+}
+
+.main-container {
+  min-height: 100vh;
+}
+div .left-profile {
+  min-height: 100vh;
+  background-color: grey;
+  background-image: url(./docs/profile-bg.jpg);
+  background-size: 50em;
+  background-position: right;
+}
+
+div .right-projects {
+  min-height: 100vh;
+  background-color: rgb(255, 197, 149);
+  background-size: auto;
+  padding: 0;
+}
