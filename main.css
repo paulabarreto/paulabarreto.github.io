@@ -33,8 +33,9 @@ div .right-projects {
 }
 
 .icons {
-  font-size: 1.5em;
-  margin-right: .6em;
+  font-size: 1.6em;
+  margin: .6em;
+  color: white;
 }
 
 .lang-icons {
