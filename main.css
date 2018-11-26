@@ -63,3 +63,12 @@ div .sect {
 .project-caption {
   background: rgba(36, 36, 36, 0.25);
 }
+
+.carousel-item img {
+  height: 80vh;
+  width: auto;
+}
+.carousel-caption {
+  background-color: rgba(36, 36, 36, 0.75);
+  border-radius: 15px;
+}
