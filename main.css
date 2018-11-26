@@ -54,9 +54,18 @@ div .right-projects {
 }
 
 .icons {
-  font-size: 1.6em;
+  font-size: 1.8em;
   margin: .6em;
   color: white;
+}
+
+.languages i {
+  animation: glowing 6000ms ease-in-out infinite;
+}
+
+.languages i:hover {
+  text-shadow: 0 0 5px white;
+  color: black;
 }
 
 .lang-icons {
