@@ -10,7 +10,14 @@ div .left-profile {
 div .right-projects {
   background-image: url(./docs/bg-projects.jpg);
   min-height: 100vh;
+  background-size: auto;
+  padding: 0;
+}
 
+.scrollable {
+  margin-top: 8vh;
+  height: 92vh;
+  overflow-y: auto;
 }
 
 .contact {
