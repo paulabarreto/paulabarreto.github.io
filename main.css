@@ -103,3 +103,8 @@ div .sect {
   background-color: rgba(36, 36, 36, 0.75);
   border-radius: 15px;
 }
+
+footer {
+  background-color: rgba(36, 36, 36, 0.75);
+  border-radius: 10px;
+}
