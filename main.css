@@ -2,6 +2,11 @@ body {
   min-height: 100vh;
 }
 
+.main-container {
+  min-height: 100vh;
+
+}
+
 
 div .left-profile {
   background-image: url(./docs/bg-profile.jpg);
